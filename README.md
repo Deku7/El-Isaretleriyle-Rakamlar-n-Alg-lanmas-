@@ -80,8 +80,8 @@ HSV renk uzayı kullanılarak elde edilen şekil 3’de ten rengini alabileceği
 </p>
  
 <p align="center">
-<b>Şekil 10. Kaydetme Sınıfı Örneği</b><br>
-<img src="Resimler/Şeki 11. Kayıt Edilmiş İşaret">
+<b>Şekil 11. Kayıt Edilmiş İşaret</b><br>
+<img src="Resimler/KayıtEdilmişİşaret.png">
 </p>
 
 Verilerin kayıt edilmesinde kullanılan kayıt etme sınıfı çalıştırıldığında şekil 10’daki görüntü elde edilmektedir. Görüntünün elde edilmesinde el işaretlerinin algılandığı sınıf ile aynı renk filtresi kullanıldı. Şekil 11 ise görüntünün kesilerek kayıt edilmeden önceki son halini göstermektedir. Kesilen görüntü sadece el işaretini algılayarak doğru verinin kayıt edilmesini sağlar.
